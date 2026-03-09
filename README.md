@@ -1,26 +1,44 @@
-<h1 align="center">ItsMichiio</h1>
-<h3 align="center">WhatsApp Bot Developer • JavaScript Enthusiast</h3>
+# INTRODUCTION 
+
+![Banner](https://files.catbox.moe/5edof5.jpg)
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=WhatsApp+Bot+Developer;Node.js+Developer;JavaScript+Enthusiast;Open+Source+Learner&center=true&width=500&height=45">
 </p>
 
 <p align="center">
-Creating automation, bots, and experimenting with modern web technology.
-</p>
-
-<p align="center">
-<a href="https://github.com/ItsMichiio">
-<img src="https://img.shields.io/badge/View-My%20Projects-black?style=for-the-badge&logo=github">
-</a>
+<img src="https://img.shields.io/badge/Node.js-v18+-green">
+<img src="https://img.shields.io/badge/Language-JavaScript-yellow">
+<img src="https://img.shields.io/badge/Platform-WhatsApp-darkgreen">
+<img src="https://img.shields.io/github/stars/ItsMichiio/REPO?style=social">
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 📁 Project Structure
 
-* 🤖 Focused on **WhatsApp Bot Development**
-* ⚙️ Building automation tools with **Node.js**
+```
+.
+├── plugins
+├── database
+├── handler
+├── lib
+├── index.js
+└── package.json
+```
+
+---
+
+## 👨‍💻 Author
+
+GitHub:
+https://github.com/ItsMichiio
+
+---
+
+## ⭐ Support
+
+If you like this project, please give it a **star ⭐ on GitHub**.
 * 📚 Learning more about **JavaScript ecosystem**
 * 🎯 Creator of **MichioProject**
 
@@ -49,5 +67,3 @@ Creating automation, bots, and experimenting with modern web technology.
 ## 🚀 Current Project
 
 Currently working on **WhatsApp Bot using Node.js** with modular command system and plugin support.
-
-Main fo
