@@ -1,4 +1,4 @@
-<h1 align="center">PrinXz</h1>
+<h1 align="center">ItsMichiio</h1>
 <h3 align="center">WhatsApp Bot Developer • JavaScript Enthusiast</h3>
 
 <p align="center">
@@ -10,7 +10,7 @@ Creating automation, bots, and experimenting with modern web technology.
 </p>
 
 <p align="center">
-<a href="https://github.com/PrinXz">
+<a href="https://github.com/ItsMichiio">
 <img src="https://img.shields.io/badge/View-My%20Projects-black?style=for-the-badge&logo=github">
 </a>
 </p>
@@ -22,7 +22,7 @@ Creating automation, bots, and experimenting with modern web technology.
 * 🤖 Focused on **WhatsApp Bot Development**
 * ⚙️ Building automation tools with **Node.js**
 * 📚 Learning more about **JavaScript ecosystem**
-* 🎯 Creator of **Eugen Project**
+* 🎯 Creator of **MichioProject**
 
 ---
 
@@ -50,21 +50,4 @@ Creating automation, bots, and experimenting with modern web technology.
 
 Currently working on **WhatsApp Bot using Node.js** with modular command system and plugin support.
 
-Main focus:
-
-* Command Handler
-* Plugin System
-* WhatsApp Multi Device
-* Lightweight bot structure
-
----
-
-## ⭐ Support
-
-If you like my projects, feel free to **give a star ⭐** on my repositories.
-
----
-
-## 🌐 Profile
-
-GitHub : https://github.com/PrinXz
+Main fo
